@@ -1,0 +1,10 @@
+alignment: 444 taxa x 1980 columns
+biallelic informative sites: 370
+incompatible site pairs: 24463 of 68265 (35.8%)
+
+PHI observed (mean incompatibility, window=100): 0.33900
+permuted null: mean 0.35811  sd 0.00507  range 0.33978-0.37437
+z = -3.77
+one-sided permutation p = 0.0010  (1000 permutations)
+
+VERDICT: SIGNIFICANT RECOMBINATION (p < 0.05)

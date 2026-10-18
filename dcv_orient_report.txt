@@ -1,0 +1,33 @@
+reference HM162346.1|DU092|duck|China|2008 length 1993
+n=498  reverse-complemented=0  rotated=161  weak-vote(<100 shared 14-mers)=1
+weak-vote records (inspect; may be genuinely divergent lineage):
+  OP432310.1|DuCV3/duck/CHN/2022/HNU-HYH|duck|China|2022 strand=+ offset=4 votes=68 len=1755
+  OR387762.1|Shandong/LC-LF0720-2/2022|duck|China|2022 strand=+ offset=1829 votes=191 len=1877
+  PX308126.1|D250207|duck|China|2025 strand=+ offset=1987 votes=194 len=1988
+  EU499310.1|PT07|duck|China|NA strand=+ offset=1987 votes=204 len=1988
+  JX241046.1|GX1104|duck|China|2011 strand=+ offset=1987 votes=208 len=1988
+  MN052853.1|FJ1815|duck|China|2018 strand=+ offset=1987 votes=209 len=1988
+  KU844857.1|wd2014012|duck|NA|NA strand=+ offset=1987 votes=210 len=1988
+  AY394721.1|TC1/2002|duck_by_title|NA|NA strand=+ offset=1987 votes=211 len=1988
+  DQ166836.1|TC2/2002|duck_by_title|Taiwan|NA strand=+ offset=1987 votes=212 len=1988
+  DQ166837.1|TC3/2002|duck_by_title|Taiwan|NA strand=+ offset=1987 votes=212 len=1988
+  EU022374.1|LY0701|duck_by_title|China|2007 strand=+ offset=1987 votes=212 len=1988
+  KU844858.1|wd2015028|duck|NA|NA strand=+ offset=1987 votes=212 len=1988
+  PP950796.1|G221116|goose|China|2022 strand=+ offset=1987 votes=213 len=1988
+  PZ488194.1|FJ2443|duck|China|2024 strand=+ offset=0 votes=213 len=1989
+  HG532019.1|HLJ/2010|duck_by_title|NA|NA strand=+ offset=1987 votes=215 len=1988
+  OR387746.1|Guangdong/ZQ-XYX1018-3/2022|duck|China|2022 strand=+ offset=1829 votes=215 len=1877
+  OR387744.1|Guangdong/ZQ-XYF1010-1/2022|duck|China|2022 strand=+ offset=1829 votes=216 len=1877
+  OR387745.1|Guangdong/ZQ-XYF1010-4/2022|duck|China|2022 strand=+ offset=1829 votes=216 len=1877
+  OR387732.1|Fujian/ZZ-DCJ0729-M4-2/2022|duck|China|2022 strand=+ offset=1829 votes=217 len=1877
+  JX241045.1|GX1105|duck|China|2011 strand=+ offset=1987 votes=218 len=1988
+  MK814585.1|YN180506|duck|China|2018 strand=+ offset=1987 votes=218 len=1988
+  ON227555.1|GD/JM/A|duck|China|2021 strand=+ offset=1987 votes=218 len=1988
+  KF941313.1|33-2|duck|China|2013 strand=+ offset=1986 votes=220 len=1987
+  GQ423744.1|FJFQ315|duck|China|2009 strand=+ offset=1987 votes=221 len=1988
+  PX310202.1|DuCV/duck/CHN/2025/BB|duck|China|2025 strand=+ offset=1987 votes=221 len=1988
+  KF941309.1|9-1|duck|China|2013 strand=+ offset=1986 votes=222 len=1987
+  KF941310.1|11-1|duck|China|2013 strand=+ offset=1986 votes=224 len=1987
+  KF941311.1|29-1|duck|China|2013 strand=+ offset=1986 votes=224 len=1987
+  KF941312.1|31-1|duck|China|2013 strand=+ offset=1986 votes=224 len=1987
+  KF941314.1|42-1|duck|China|2013 strand=+ offset=1986 votes=224 len=1987

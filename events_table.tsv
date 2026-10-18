@@ -1,0 +1,15 @@
+accession	country	year	group	inside_parent	outside_parent	n_informative	mosaic_fit_%	best_single_%	gain_sites	breakpoint1	bp1_region	breakpoint2	bp2_region	3SEQ_breakpoints
+EU344802.1	China	NA	1 rep(~578-680)/origin junction	GQ423742.1	DQ166837.1	319	97.2	75.9	68	1-25	origin junction	578-681	rep	578-680 & 1951-1980
+EU344803.1	China	NA	1 rep(~578-680)/origin junction	GQ423745.1	GQ423742.1	329	100.0	84.2	52	59-71	rep	578-681	rep	59-70 & 578-680
+EU344805.1	China	NA	1 rep(~578-680)/origin junction	GQ423742.1	OK094645.1	323	97.5	78.9	60	45-53	rep	671-681	rep	45-52 & 671-680
+EU499311.1	China	NA	1 rep(~578-680)/origin junction	GQ423745.1	GQ423742.1	329	100.0	83.9	53	53-59	rep	578-681	rep	53-58 & 578-680
+MN928792.1	China	2018	1 rep(~578-680)/origin junction	OR134497.1	MN928808.1	237	97.9	75.1	54	1-25	origin junction	578-725	rep	578-724 & 1951-1980
+MN928802.1	China	2018	1 rep(~578-680)/origin junction	MN928811.1	MN928807.1	207	99.5	66.7	68	1-25	origin junction	578-674	rep	578-673 & 1951-1980
+MN928803.1	China	2018	1 rep(~578-680)/origin junction	MN928811.1	MN928807.1	208	100.0	67.3	68	1-25	origin junction	578-674	rep	578-673 & 1951-1980
+MN928804.1	China	2019	1 rep(~578-680)/origin junction	MN928811.1	PV936284.1	202	99.0	66.3	66	1-25	origin junction	578-674	rep	578-673 & 1950-1980
+MN928806.1	China	2019	1 rep(~578-680)/origin junction	MN928811.1	MN928807.1	207	99.0	66.2	68	1-25	origin junction	578-674	rep	578-673 & 1951-1980
+MN928811.1	China	2019	1 rep(~578-680)/origin junction	OR134497.1	MN928808.1	237	98.7	74.3	58	1-25	origin junction	578-725	rep	578-724 & 1951-1980
+OR134497.1	China	2019	2 intergenic/cap	EU344802.1	OR134498.1	225	96.9	55.1	94	1101-1116	intergenic (rep-cap 3' ends)	1640-1714	cap	1101-1115 & 1640-1713
+OR134498.1	China	2020	2 intergenic/cap	MN928809.1	OR134497.1	242	98.3	52.9	110	870-973	rep	1646-1655	cap	870-972 & 1646-1654
+OK094644.1	China	2020	3 within rep	MN928796.1	OK094645.1	344	97.7	86.0	40	197-221	rep	581-671	rep	197-220 & 581-670
+KP943594.1	Poland	2013	4 rep/intergenic (poor fit)	FJ554673.1	KC460534.1	277	69.0	51.3	49	179-191	rep	1116-1129	intergenic (rep-cap 3' ends)	179-190 & 1116-1128

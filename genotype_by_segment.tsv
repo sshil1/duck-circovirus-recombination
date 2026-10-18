@@ -1,0 +1,445 @@
+acc	country	year	whole	s1	s2	s3	s4	s5	s6	discordant_s1_s2_s4
+AY228555.1	NA	NA	1a	1b	1b	1b	1a	1a	1a	True
+AY394721.1	NA	NA	2b	2b	2b	2b	2b	2b	2b	False
+DQ100076.1	USA	NA	1b	1b	1b	1c	1b	1b	1b	False
+DQ166836.1	Taiwan	NA	2b	2b	2b	2b	2b	2b	2b	False
+DQ166837.1	Taiwan	NA	2b	2b	2b	2b	2b	2b	2b	False
+EF370476.1	China	2006	2c	2c	2c	2c	2c	2a	2b	False
+EF451157.1	China	NA	1a	1b	1b	1c	1a	1a	1a	True
+EU022374.1	China	2007	2c	2c	2c	2c	2c	2a	2b	False
+EU022375.1	China	2007	1b	1c	1b	1c	1b	1b	1b	True
+EU344802.1	China	NA	2a	2a	2a	2a	2a	2a	2a	False
+EU344803.1	China	NA	1a	2c	1b	1c	1a	1a	1a	True
+EU344804.1	China	NA	1a	1b	1b	1c	1a	1a	1a	True
+EU344805.1	China	NA	2a	2a	2a	2a	2a	2a	2a	False
+EU344806.1	China	NA	1a	1b	1c	1c	1a	1a	1a	True
+EU344807.1	China	NA	1a	2a	1b	1c	1a	1a	1a	True
+EU499310.1	China	NA	2c	2c	2c	2a	2c	2c	2b	False
+EU499311.1	China	NA	1a	2c	1b	1c	1a	1a	1a	True
+FJ554673.1	China	2008	2c	2c	2c	2a	2c	2c	2b	False
+GQ334371.1	China	2008	1a	1b	1b	1c	1a	1a	1a	True
+GQ423740.1	China	2008	1a	1b	1c	1c	1a	1a	1a	True
+GQ423741.1	China	2007	2c	2c	2c	2a	2c	2c	2b	False
+GQ423742.1	China	2007	1a	2a	1b	1c	1a	1a	1a	True
+GQ423743.1	China	2009	2c	2c	2c	2a	2c	2c	2b	False
+GQ423744.1	China	2009	2c	2c	2c	2a	2c	2c	2b	False
+GQ423745.1	China	2009	2c	2c	2c	2a	2c	2c	2b	False
+GQ423746.1	China	2009	2c	2c	2c	2a	2c	2c	2b	False
+GQ423747.1	China	2008	1a	1b	1b	1c	1a	1a	1a	True
+GQ868757.1	China	2006	2c	2c	2c	2a	2c	2a	2b	False
+GU014543.1	China	2009	1c	1c	1c	1c	1c	1c	1c	False
+GU131340.1	China	2008	1a	1b	1b	1c	1a	1a	1a	True
+GU131341.1	China	2008	2c	2c	2c	2c	2c	2a	2b	False
+GU131342.1	China	2008	1b	1c	1b	1c	1b	1b	1b	True
+GU131343.1	China	2008	2c	2c	2c	2a	2c	2a	2b	False
+GU168779.1	China	2008	1a	1b	1c	1c	1a	1a	1a	True
+HG532019.1	NA	NA	2c	2c	2c	2a	2c	2c	2b	False
+HM162345.1	China	2009	1a	1b	1b	1c	1a	1a	1a	True
+HM162346.1	China	2008	1b	1b	1b	1c	1b	1b	1b	False
+HM162347.1	China	2008	1b	1b	1b	1c	1b	1b	1c	False
+HM162348.1	China	2008	1b	1b	1b	1c	1b	1b	1b	False
+HM162349.1	China	2008	1b	1b	1b	1c	1b	1b	1c	False
+HM162350.1	China	2010	1a	1b	1c	1c	1a	1a	1a	True
+HM162351.1	China	2010	1b	1b	1b	1b	1b	1b	1b	False
+HM162352.1	China	2010	1b	1b	1b	1c	1b	1b	1b	False
+HM162353.1	China	2010	1b	1b	1b	1b	1b	1b	1b	False
+HQ180265.1	China	2009	1a	1b	1c	1c	1a	1a	1a	True
+HQ180266.1	China	2009	1a	1b	1a	1c	1a	1a	1a	True
+JQ740360.1	South		1b	1b	1b	1c	1b	1b	1b	False
+JQ740361.1	South		1b	1b	1b	1c	1b	1b	1b	False
+JQ740362.1	South		1b	1b	1b	1c	1b	1b	1b	False
+JQ740363.1	South		1b	1b	1b	1c	1b	1b	1b	False
+JX241045.1	China	2011	2c	2c	2c	2a	2c	2a	2a	False
+JX241046.1	China	2011	2c	2c	2c	2a	2c	2a	2a	False
+JX499186.1	China	2012	2c	2c	2c	2a	2c	2a	2b	False
+KC460524.1	China	2012	1a	1b	1b	1c	1a	1a	1a	True
+KC460525.1	China	2012	1a	1b	1b	1c	1a	1a	1a	True
+KC460526.1	China	2012	1a	1b	1b	1c	1a	1a	1a	True
+KC460527.1	China	2012	1a	1b	1b	1c	1a	1a	1a	True
+KC460528.1	China	2011	1b	1b	1c	1c	1b	1b	1b	True
+KC460529.1	China	2011	1a	1b	1c	1c	1a	1a	1a	True
+KC460530.1	China	2012	1b	1b	1b	1c	1b	1b	1b	False
+KC460531.1	China	2012	1b	1c	1b	1c	1b	1b	1b	True
+KC460532.1	China	2012	1a	1b	1b	1c	1a	1a	1a	True
+KC460533.1	China	2011	1b	1c	1b	1c	1b	1b	1b	True
+KC460534.1	China	2012	1a	1b	1c	1c	1a	1a	1a	True
+KC460535.1	China	2012	1a	1b	1c	1c	1a	1a	1a	True
+KC851804.1	South		1b	1b	1b	1c	1b	1b	1b	False
+KC851805.1	South		1b	1b	1b	1c	1b	1b	1b	False
+KC851806.1	South		1b	1b	1b	1c	1b	1b	1b	False
+KC851807.1	South		1b	1b	1b	1c	1b	1b	1b	False
+KC851808.1	South		1b	1b	1b	1c	1b	1b	1b	False
+KC851809.1	South		1b	1b	1b	1c	1b	1b	1b	False
+KC851810.1	South		1b	1b	1b	1c	1b	1b	1b	False
+KC851811.1	South		1b	1b	1b	1c	1b	1b	1b	False
+KC851813.1	South		1b	1b	1b	1c	1b	1b	1b	False
+KC851814.1	South		1b	1b	1b	1c	1b	1b	1b	False
+KC851815.1	South		1b	1b	1b	1c	1b	1b	1b	False
+KC851816.1	South		1b	1b	1b	1c	1b	1b	1b	False
+KC851817.1	South		1b	1b	1b	1c	1b	1b	1b	False
+KC851818.1	South		1b	1b	1b	1c	1b	1b	1b	False
+KC851819.1	South		1b	1b	1b	1c	1b	1b	1b	False
+KC851820.1	South		1b	1b	1b	1c	1b	1b	1b	False
+KC851821.1	South		1b	1b	1b	1c	1b	1b	1b	False
+KC851822.1	South		1b	1b	1b	1c	1b	1b	1b	False
+KC851823.1	South		1b	1b	1b	1c	1b	1b	1b	False
+KF941309.1	China	2013	2c	2c	2c	2c	2c	2a	2b	False
+KF941310.1	China	2013	2c	2c	2c	2c	2c	2a	2b	False
+KF941311.1	China	2013	2c	2c	2c	2c	2c	2a	2b	False
+KF941312.1	China	2013	2c	2c	2c	2c	2c	2a	2b	False
+KF941313.1	China	2013	2c	2c	2c	2c	2c	2a	2b	False
+KF941314.1	China	2013	2c	2c	2c	2c	2c	2a	2b	False
+KF941315.1	China	2013	2c	2c	2c	2c	2c	2a	2b	False
+KP229362.1	Taiwan	2013	1a	2a	1b	1c	1a	1a	1a	True
+KP229364.1	Taiwan	2013	1c	1b	1b	1c	1c	1c	1a	True
+KP229365.1	Taiwan	2013	1c	1b	1b	1c	1c	1c	1a	True
+KP229366.1	Taiwan	2013	1a	1b	1b	1c	1a	1a	1a	True
+KP229367.1	Taiwan	2013	1b	1c	1b	1c	1b	1b	1b	True
+KP229368.1	Taiwan	2013	1b	1c	1b	1c	1b	1b	1b	True
+KP229369.1	Taiwan	2013	1b	1c	1b	1c	1b	1b	1b	True
+KP229375.1	Taiwan	2013	1c	1b	1b	1c	1c	1c	1a	True
+KP229376.1	Taiwan	2013	1c	1b	1b	1c	1c	1c	1a	True
+KP229377.1	Taiwan	2012	2b	2b	2b	2b	2b	2b	2b	False
+KP780079.1	China	2014	1a	1b	1c	1c	1a	1a	1a	True
+KP943594.1	Poland	2013	1d	1b	2b	2a	1b	1b	2a	True
+KR491945.1	China	2013	2c	2c	2c	2b	2c	2c	2b	False
+KR491946.1	China	2013	1d	1d	1d	1d	1d	1d	1d	False
+KR491947.1	China	2013	1d	1d	1d	1d	1d	1d	1d	False
+KU844855.1	NA	NA	1b	1b	1b	1c	1b	1b	1b	False
+KU844856.1	NA	NA	1a	1b	1b	1c	1a	1a	1a	True
+KU844857.1	NA	NA	2b	2b	2b	2b	2b	2b	2b	False
+KU844858.1	NA	NA	2c	2c	2c	2a	2c	2c	2b	False
+KY328304.1	China	2015	1b	1b	1b	1c	1b	1b	1b	False
+MF627687.1	China	2016	1a	1b	1b	1c	1a	1a	1a	True
+MF627688.1	China	2016	1b	1c	1b	1c	1b	1b	1b	True
+MF627689.1	China	2016	1a	1a	1a	1c	1a	1a	1a	False
+MF627690.1	China	2016	1a	1a	1a	1a	1a	1a	1a	False
+MH444647.1	China	2018	1b	1b	1b	1c	1b	1b	1b	False
+MK814579.1	China	2018	1b	1b	1b	1c	1b	1b	1b	False
+MK814581.1	China	2019	1b	1c	1b	1c	1b	1b	1b	True
+MK814583.1	China	2019	1a	1b	1b	1c	1a	1a	1a	True
+MK814585.1	China	2018	2c	2c	2c	2b	2c	2c	2b	False
+MK814587.1	China	2019	1d	1d	1d	1d	1d	1d	1d	False
+MK814589.1	China	2019	1d	1d	1d	1d	1d	1d	1d	False
+MN052853.1	China	2018	2c	2c	2c	2a	2c	2c	2b	False
+MN068354.1	China	2017	1b	1b	1b	1c	1b	1b	1b	False
+MN068355.1	China	2017	1a	1b	1c	1c	1a	1a	1a	True
+MN068356.1	China	2017	1b	1b	1b	1c	1b	1b	1b	False
+MN068357.1	China	2017	1b	1b	1b	1c	1b	1b	1b	False
+MN068358.1	China	2017	1b	1b	1b	1c	1a	1a	1a	True
+MN068359.1	China	2017	1b	1b	1b	1c	1b	1b	1b	False
+MN068360.1	China	2017	1b	1b	1b	1c	1b	1b	1b	False
+MN078101.1	China	2017	1a	1b	1b	1a	1a	1b	1b	True
+MN078102.1	China	2018	1b	1a	1b	1c	1b	2a	2b	True
+MN078103.1	China	2018	1a	1b	1b	1c	1a	1a	1a	True
+MN808566.1	China	2019	1b	1b	1b	1c	1b	1b	1b	False
+MN928792.1	China	2018	1b	2c	1b	1c	1b	1b	1b	True
+MN928793.1	China	2018	1a	1a	1b	1c	1a	1a	1a	True
+MN928794.1	China	2018	1b	1b	1b	1c	1b	1b	1b	False
+MN928795.1	China	2018	1b	1b	1b	1c	1b	1b	1b	False
+MN928796.1	China	2019	1a	1b	1a	1c	1a	1a	1a	True
+MN928797.1	China	2018	1b	1c	1b	1c	1b	1b	1b	True
+MN928798.1	China	2019	1b	1c	1b	1c	1b	1b	1b	True
+MN928799.1	China	2019	1a	1a	1a	1c	1a	1a	1a	False
+MN928800.1	China	2019	1b	1c	1b	1c	1b	1b	1b	True
+MN928801.1	China	2019	1b	1b	1b	1c	1b	1b	1b	False
+MN928802.1	China	2018	1d	2c	1d	1d	1d	1d	2a	True
+MN928803.1	China	2018	1d	2c	1d	1d	1d	1d	2a	True
+MN928804.1	China	2019	1d	2c	1d	1d	1d	1d	2a	True
+MN928805.1	China	2019	1d	1d	1d	1d	1d	1d	2a	False
+MN928806.1	China	2019	1d	2c	1d	1d	1d	1d	2a	True
+MN928807.1	China	2019	1d	1b	1d	1d	1d	1d	2a	True
+MN928808.1	China	2018	1b	1b	1b	1c	1b	1b	1b	False
+MN928809.1	China	2018	1b	1b	1b	1c	1b	1b	1b	False
+MN928810.1	China	2019	1a	1d	1c	1c	1a	1a	1a	True
+MN928811.1	China	2019	1b	2c	1b	1c	1b	1b	1b	True
+MT318126.1	Brazil	2014	1b	1b	1b	1c	1b	1b	1b	False
+MT646346.1	China	2019	1d	1d	1d	2a	1d	1d	2a	False
+MT646347.1	China	2019	1d	1d	1d	1d	1d	1d	1d	False
+MT646348.1	China	2019	2c	2c	2c	2a	2c	2a	2b	False
+MT646349.1	China	2019	2c	2c	2c	2a	2c	2c	2b	False
+MT646350.1	China	2019	1b	1b	1b	1c	1b	1b	1b	False
+MT799793.1	China	2018	1b	1c	1b	1c	1b	1b	1b	True
+MW255979.1	China	2019	1b	1c	1b	1c	1b	1b	1b	True
+MW255980.1	China	2019	1b	1b	1b	1c	1b	1b	1b	False
+MZ425925.1	China	2021	1b	1b	1b	1c	1b	1b	1b	False
+OK094642.1	China	2020	1b	1b	1b	1c	1b	1b	1b	False
+OK094643.1	China	2020	1a	1b	1b	1c	1a	1a	1a	True
+OK094644.1	China	2020	2a	2a	2c	2a	2c	2a	2b	True
+OK094645.1	China	2020	2c	2c	2c	2a	2c	2c	2b	False
+OK094646.1	China	2020	2c	2c	2c	2a	2c	2c	2b	False
+OM176552.1	Viet		1b	1b	1b	1c	1b	1b	1b	False
+OM176553.1	Viet		1b	1b	1b	1c	1b	1b	1b	False
+OM176554.1	Viet		1b	1b	1b	1c	1b	1b	1b	False
+OM176555.1	Viet		1b	1b	1b	1c	1b	1b	1b	False
+OM176556.1	Viet		2c	2c	2c	2a	2c	2c	2a	False
+OM176557.1	Viet		2b	2b	2b	2a	2b	2a	2b	False
+OM867678.1	China	2021	1b	1b	1b	1c	1b	1b	1b	False
+ON227536.1	China	2021	2c	2c	2c	2a	2c	2c	2c	False
+ON227537.1	China	2021	1b	1b	1b	1c	1a	1a	1a	True
+ON227538.1	China	2021	1b	1b	1b	1c	1b	1b	1b	False
+ON227539.1	China	2021	1a	1b	1c	1c	1a	1a	1a	True
+ON227540.1	China	2021	1b	1b	1c	1c	1b	1b	1a	True
+ON227541.1	China	2021	1b	1b	1b	1c	1b	1b	1b	False
+ON227542.1	China	2021	1b	1b	1b	1c	1b	1b	1b	False
+ON227543.1	China	2021	1b	1b	1c	1c	1b	1b	1b	True
+ON227544.1	China	2020	1b	1b	1b	1c	1b	1b	1b	False
+ON227545.1	China	2021	1b	1b	1b	1c	1b	1b	1b	False
+ON227546.1	China	2021	1b	1b	1b	1c	1b	1b	1b	False
+ON227547.1	China	2021	1b	1b	1b	1c	1b	1b	1b	False
+ON227548.1	China	2021	1b	1b	1b	1c	1b	1b	1b	False
+ON227549.1	China	2021	1b	1b	1b	1c	1b	1b	1b	False
+ON227550.1	China	2021	1b	1b	1b	1c	1b	1b	1b	False
+ON227551.1	China	2021	1b	1b	1b	1c	1b	1b	1b	False
+ON227552.1	China	2021	1b	1b	1b	1c	1b	1b	1b	False
+ON227553.1	China	2021	1b	1b	1b	1c	1b	1b	1b	False
+ON227554.1	China	2021	1b	1b	1b	1c	1b	1b	1b	False
+ON227555.1	China	2021	2c	2c	2c	2c	2c	2c	2c	False
+ON227556.1	China	2021	2c	2c	2c	2c	2c	2c	2c	False
+ON227557.1	China	2021	2c	2c	2c	2a	2c	2c	2c	False
+ON756205.1	China	2022	1b	1c	1b	1c	1b	1b	1b	True
+ON756206.1	China	2021	1b	1b	1b	1c	1b	1b	1b	False
+ON756207.1	China	2021	1b	1b	1b	1c	1b	1b	1b	False
+ON756208.1	China	2021	1b	1b	1b	1c	1b	1b	1b	False
+ON756209.1	China	2021	1b	1b	1b	1c	1b	1b	1b	False
+ON756210.1	China	2021	1b	1b	1b	1c	1b	1b	1b	False
+ON756211.1	China	2021	1b	1b	1b	1c	1b	1b	1b	False
+ON756212.1	China	2022	1a	1a	1a	1c	1a	1a	1a	False
+ON756213.1	China	2022	1b	1b	1b	1c	1b	1b	1b	False
+ON756214.1	China	2022	1b	1b	1b	1c	1b	1b	1b	False
+ON756215.1	China	2022	1b	1c	1b	1c	1b	1b	1b	True
+ON756216.1	China	2021	1b	1b	1b	1c	1b	1b	1b	False
+ON756217.1	China	2021	1a	1b	1a	1c	1a	1b	1a	True
+OP850042.1	China	2021	1a	1a	1a	1c	1a	1a	1a	False
+OP850043.1	China	2021	1b	1b	1b	1c	1b	1b	1b	False
+OQ657183.1	China	2022	1b	1b	1b	1c	1b	1b	1b	False
+OQ657184.1	China	2022	1b	1b	1b	1c	1b	1b	1b	False
+OQ657185.1	China	2022	1b	1b	1b	1c	1b	1b	1b	False
+OQ657186.1	China	2022	1b	1b	1b	1c	1b	1b	1b	False
+OQ658500.1	China	2022	1b	1b	1b	1c	1b	1b	1b	False
+OQ658502.1	China	2022	1b	1b	1b	1c	1b	1b	1b	False
+OQ658503.1	China	2022	1b	1b	1b	1c	1b	1b	1b	False
+OQ744001.1	Thailand	2022	1b	1b	1b	1b	1b	1b	1b	False
+OQ744002.1	Thailand	2022	1b	1b	1b	1b	1b	1b	1b	False
+OQ744004.1	Thailand	2022	1b	1b	1b	1c	1b	1b	1b	False
+OQ744005.1	Thailand	2022	1a	1b	1b	1c	1a	1a	1b	True
+OQ744006.1	Thailand	2022	1a	1b	1b	1c	1a	1a	1b	True
+OQ759610.1	China	2021	1b	1b	1b	1c	1a	1b	1b	True
+OR090938.1	China	2022	1b	1c	1b	1c	1b	1b	1b	True
+OR090939.1	China	2022	1b	1b	1b	1c	1b	1b	1b	False
+OR090940.1	China	2022	1a	1b	1b	1c	1a	1a	1a	True
+OR090942.1	China	2022	1b	1b	1b	1c	1b	1b	1b	False
+OR090944.1	China	2022	1b	1b	1b	1c	1b	1b	1b	False
+OR090945.1	China	2022	1b	1b	1b	1c	1b	1b	1b	False
+OR090946.1	China	2022	1b	1a	1b	1c	1b	1b	1a	True
+OR090947.1	China	2022	1b	1b	1b	1c	1b	1b	1b	False
+OR090948.1	China	2022	1b	1b	1b	1c	1b	1b	1b	False
+OR090949.1	China	2022	1b	1b	1b	1c	1b	1b	1b	False
+OR090950.1	China	2022	1b	1b	1b	1c	1b	1b	1b	False
+OR090951.1	China	2022	1b	1b	1b	1c	1b	1b	1b	False
+OR090952.1	China	2022	1b	1b	1b	1c	1b	1b	1b	False
+OR090953.1	China	2022	1b	1b	1b	1c	1b	1b	1b	False
+OR090954.1	China	2022	1b	1b	1b	1c	1b	1b	1b	False
+OR090955.1	China	2022	1b	1b	1b	1c	1b	1b	1b	False
+OR090956.1	China	2022	1b	1b	1b	1c	1b	1b	1b	False
+OR090957.1	China	2022	1b	1b	1b	1c	1b	1b	1b	False
+OR134461.1	China	2019	1b	1b	1b	1c	1b	1b	1b	False
+OR134462.1	China	2019	1b	1b	1b	1c	1b	1b	1b	False
+OR134463.1	China	2019	1b	1b	1b	1c	1b	1b	1b	False
+OR134464.1	China	2019	1b	1b	1b	1c	1b	1b	1b	False
+OR134465.1	China	2019	1b	1c	1b	1c	1b	1b	1b	True
+OR134466.1	China	2019	1b	1b	1b	1c	1b	1b	1b	False
+OR134467.1	China	2019	1b	1b	1b	1c	1b	1b	1b	False
+OR134468.1	China	2020	1b	1b	1b	1c	1b	1b	1b	False
+OR134469.1	China	2020	1b	1b	1b	1c	1b	1b	1b	False
+OR134470.1	China	2020	1b	1b	1b	1c	1b	1b	1b	False
+OR134471.1	China	2020	1b	1b	1b	1c	1b	1b	1b	False
+OR134472.1	China	2020	1b	1b	1b	1c	1b	1b	1b	False
+OR134473.1	China	2020	1b	1b	1b	1c	1b	1b	1b	False
+OR134474.1	China	2020	1a	1b	1c	1c	1a	1a	1a	True
+OR134475.1	China	2020	1b	1b	1b	1c	1b	1b	1b	False
+OR134476.1	China	2020	1b	1b	1b	1c	1b	1b	1b	False
+OR134477.1	China	2020	1b	1b	1b	1c	1b	1b	1b	False
+OR134478.1	China	2020	1b	1b	1b	1c	1b	1b	1b	False
+OR134479.1	China	2021	1b	1b	1b	1c	1b	1b	1b	False
+OR134480.1	China	2021	1b	1b	1b	1c	1b	1b	1b	False
+OR134481.1	China	2021	1b	1b	1b	1c	1b	1b	1b	False
+OR134482.1	China	2021	1b	1b	1b	1c	1b	1b	1b	False
+OR134483.1	China	2022	1b	1b	1b	1c	1b	1b	1b	False
+OR134484.1	China	2022	1b	1b	1b	1c	1b	1b	1b	False
+OR134485.1	China	2022	1b	1b	1b	1c	1b	1b	1b	False
+OR134486.1	China	2022	1a	1b	1b	1c	1a	1a	1a	True
+OR134487.1	China	2022	1a	1b	1b	1c	1a	1a	1a	True
+OR134488.1	China	2022	1b	1b	1b	1c	1b	1b	1b	False
+OR134489.1	China	2022	1b	1b	1b	1c	1b	1b	1b	False
+OR134490.1	China	2022	1b	1b	1b	1c	1b	1b	1b	False
+OR134491.1	China	2022	1b	1b	1b	1c	1b	1b	1b	False
+OR134492.1	China	2019	1b	1c	1b	1c	1b	1b	1b	True
+OR134493.1	China	2019	1b	1b	1b	1c	1b	1b	1b	False
+OR134494.1	China	2019	1b	1b	1b	1c	1b	1b	1b	False
+OR134495.1	China	2019	1b	1c	1b	1c	1b	1b	1b	True
+OR134496.1	China	2019	1b	1b	1b	1c	1b	1b	1b	False
+OR134497.1	China	2019	2c	2c	1b	1c	2c	2a	2b	True
+OR134498.1	China	2020	2c	2c	2c	1c	1b	2a	2b	True
+OR134499.1	China	2020	2c	2c	2c	2a	2c	2a	2b	False
+OR134500.1	China	2020	1b	1b	1b	1c	1b	1b	1b	False
+OR134501.1	China	2020	1b	1b	1b	1c	1b	1b	1b	False
+OR134502.1	China	2020	1b	1b	1b	1c	1b	1b	1b	False
+OR134503.1	China	2020	1b	1b	1b	1c	1b	1b	1b	False
+OR134504.1	China	2020	2c	2b	2c	2a	2c	2a	2b	True
+OR134505.1	China	2020	1b	1b	1b	1c	1b	1b	1b	False
+OR134506.1	China	2020	1b	1b	1b	1c	1b	1b	1b	False
+OR134507.1	China	2021	1a	1b	1c	1c	1a	1a	1a	True
+OR134508.1	China	2021	1b	1b	1b	1c	1b	1b	1b	False
+OR134509.1	China	2021	1b	1b	1b	1c	1b	1b	1b	False
+OR134510.1	China	2021	1b	1b	1b	1c	1b	1b	1b	False
+OR134511.1	China	2021	1a	1b	1c	1c	1a	1a	1a	True
+OR134512.1	China	2021	1a	1b	1c	1c	1a	1a	1a	True
+OR134513.1	China	2022	1b	1b	1b	1c	1b	1b	1b	False
+OR134514.1	China	2022	1b	1c	1b	1c	1b	1b	1b	True
+OR427305.1	China	2023	2c	2c	2c	2a	2c	2c	2b	False
+OR427306.1	China	2023	2c	2c	2c	2a	2c	2c	2b	False
+OR427307.1	China	2023	2c	2c	2c	2a	2c	2c	2b	False
+OR427308.1	China	2023	2c	2c	2c	2a	2c	2c	2b	False
+OR567883.1	China	2022	1b	1b	1b	1c	1b	1b	1b	False
+OR842550.1	China	2023	1b	1b	1b	1c	1b	1b	1b	False
+OR842551.1	China	2023	1b	1b	1b	1c	1b	1b	1b	False
+OR842552.1	China	2023	1b	1b	1b	1c	1b	1b	1b	False
+OR842553.1	China	2023	1b	1b	1b	1c	1b	1b	1b	False
+OR842554.1	China	2023	1b	1b	1b	1c	1b	1b	1b	False
+PP056131.1	South		1b	1b	1b	1c	1b	1b	1b	False
+PP056132.1	South		1b	1b	1b	1c	1b	1b	1b	False
+PP056133.1	South		1b	1b	1b	1c	1b	1b	1b	False
+PP056134.1	South		1b	1b	1b	1c	1b	1b	1b	False
+PP056135.1	South		1b	1b	1b	1c	1b	1b	1b	False
+PP056136.1	South		1b	1b	1b	1c	1b	1b	1b	False
+PP056137.1	South		1b	1b	1b	1c	1b	1b	1b	False
+PP056138.1	South		1b	1b	1b	1c	1b	1b	1b	False
+PP056139.1	South		1b	1b	1b	1c	1b	1b	1b	False
+PP056140.1	South		1b	1b	1b	1c	1b	1b	1b	False
+PP056141.1	South		1b	1b	1b	1c	1b	1b	1b	False
+PP056142.1	South		1b	1b	1b	1c	1b	1b	1b	False
+PP056143.1	South		1b	1b	1b	1c	1b	1b	1b	False
+PP056144.1	South		1b	1b	1b	1c	1b	1b	1b	False
+PP056145.1	South		1b	1b	1b	1c	1b	1b	1b	False
+PP056146.1	South		1b	1b	1b	1c	1b	1b	1b	False
+PP056147.1	South		1b	1b	1b	1c	1b	1b	1b	False
+PP056148.1	South		1b	1b	1b	1c	1b	1b	1b	False
+PP056149.1	South		1a	1b	1b	1c	1a	1a	1a	True
+PP056150.1	South		1b	1b	1b	1c	1b	1b	1b	False
+PP056151.1	South		1b	1b	1b	1c	1b	1b	1b	False
+PP056152.1	South		1b	1b	1b	1c	1b	1b	1b	False
+PP056153.1	South		1b	1b	1b	1b	1b	1b	1b	False
+PP056154.1	South		1b	1b	1b	1c	1b	1b	1b	False
+PP081932.1	China	2023	1b	1b	1b	1c	1b	1b	1b	False
+PP626414.1	USA	2023	1b	1b	1b	1c	1b	1b	1c	False
+PP626415.1	USA	2022	1b	1b	1b	1c	1b	1b	1c	False
+PP860899.1	China	2023	1b	1b	1b	1c	1b	1b	1b	False
+PP860900.1	China	2022	1b	1b	1b	1c	1b	1b	1b	False
+PP860901.1	China	2022	1b	1c	1b	1c	1b	1b	1b	True
+PP860902.1	China	2023	1b	1b	1b	1c	1b	1b	1b	False
+PP950795.1	China	2021	1a	1a	1a	1a	1a	1a	1a	False
+PP950796.1	China	2022	2c	2c	2c	2a	2c	2a	2b	False
+PQ581084.1	South		1b	1b	1b	1c	1b	1b	1b	False
+PQ581085.1	South		1b	1b	1b	1c	1b	1b	1b	False
+PQ581086.1	South		1a	1b	1b	1c	1a	1a	1a	True
+PQ581087.1	South		1a	1b	1b	1c	1a	1a	1a	True
+PQ581088.1	South		1b	1b	1b	1c	1b	1b	1b	False
+PQ581089.1	South		1a	1b	1b	1c	1a	1a	1a	True
+PQ581090.1	South		1a	1b	1b	1c	1a	1a	1a	True
+PQ581091.1	South		1a	1b	1b	1c	1a	1a	1a	True
+PQ581092.1	South		1b	1b	1b	1c	1b	1b	1b	False
+PQ581093.1	South		1b	1b	1b	1c	1b	1b	1b	False
+PQ581094.1	South		1b	1b	1b	1c	1b	1b	1b	False
+PQ581095.1	South		1b	1c	1b	1c	1b	1b	1b	True
+PQ581096.1	South		1b	1b	1b	1c	1b	1b	1b	False
+PQ581097.1	South		1b	1b	1b	1c	1b	1b	1b	False
+PQ581098.1	South		1b	1b	1b	1c	1b	1b	1b	False
+PQ581099.1	South		1b	1b	1b	1c	1b	1b	1b	False
+PQ581100.1	South		1b	1b	1b	1c	1b	1b	1b	False
+PQ581101.1	South		1b	1b	1b	1c	1b	1b	1b	False
+PV112473.1	China	2020	1b	1b	1b	1c	1b	1b	1b	False
+PV391885.1	China	2023	1b	1b	1b	1c	1b	1b	1b	False
+PV413215.1	China	2023	1b	1b	1b	1c	1b	1b	1b	False
+PV413216.1	China	2023	2c	2c	2c	2a	2c	2c	2a	False
+PV413217.1	China	2023	1b	1b	1b	1c	1b	1b	2a	False
+PV483400.1	Viet		1b	1b	1b	1c	1b	1b	1b	False
+PV483401.1	Viet		1b	1b	1b	1c	1b	1b	1b	False
+PV483402.1	Viet		1b	1b	1b	1c	1b	1b	1b	False
+PV483403.1	Viet		1b	1b	1b	1c	1b	1b	1b	False
+PV483404.1	Viet		1b	1b	1b	1c	1b	1b	1b	False
+PV483405.1	Viet		1b	1b	1b	1c	1b	1b	1b	False
+PV483406.1	Viet		1b	1b	1b	1c	1b	1b	1b	False
+PV483407.1	Viet		1b	1b	1b	1c	1b	1b	1b	False
+PV483408.1	Viet		1b	1b	1b	1c	1b	1b	1b	False
+PV649664.1	Thailand	2024	1b	1b	1b	1b	1b	1b	1b	False
+PV936272.1	China	2025	1b	1b	1b	1c	1b	1b	1b	False
+PV936273.1	China	2025	1b	1b	1b	1c	1b	1b	1b	False
+PV936274.1	China	2025	1b	1b	1b	1c	1b	1b	1b	False
+PV936275.1	China	2025	1b	1b	1b	1c	1b	1b	1b	False
+PV936276.1	China	2025	1b	1b	1b	1c	1b	1b	1b	False
+PV936277.1	China	2025	1b	1b	1b	1c	1b	1b	1b	False
+PV936278.1	China	2025	1d	1d	1d	2a	1d	1d	2a	False
+PV936279.1	China	2025	1b	1b	1b	1c	1b	1b	1b	False
+PV936280.1	China	2025	1b	1b	1b	1c	1b	1b	1b	False
+PV936281.1	China	2024	1b	1b	1b	1c	1b	1b	1b	False
+PV936282.1	China	2025	1b	1b	1b	1c	1b	1b	1b	False
+PV936283.1	China	2025	1b	1b	1b	1c	1b	1b	1b	False
+PV936284.1	China	2025	1d	1d	1d	1d	1d	1d	2a	False
+PV936285.1	China	2025	1b	1b	1b	1c	1b	1b	1b	False
+PV936286.1	China	2025	1b	1b	1b	1c	1b	1b	1b	False
+PV936287.1	China	2025	2c	2c	2c	2a	2c	2c	2b	False
+PX308121.1	China	2025	1b	1b	1b	1c	1b	1b	1b	False
+PX308122.1	China	2025	1a	1a	1a	1c	1a	1a	1a	False
+PX308123.1	China	2024	1b	1b	1b	1c	1b	1b	1b	False
+PX308124.1	China	2025	1d	1d	1d	1d	1d	1d	2a	False
+PX308125.1	China	2025	1b	1b	1b	1c	1b	1b	1b	False
+PX308126.1	China	2025	2c	2c	2c	2a	2c	2c	2b	False
+PX308127.1	China	2020	1b	1b	1b	1c	1a	1a	1a	True
+PX308128.1	China	2020	1b	1b	1b	1c	1a	1a	1a	True
+PX308129.1	China	2024	1b	1b	1b	1c	1b	1b	1b	False
+PX308130.1	China	2024	1b	1b	1b	1c	1b	1b	1b	False
+PX308131.1	China	2024	1b	1b	1b	1c	1b	1b	1b	False
+PX308132.1	China	2024	1b	1a	1b	1c	1b	1b	1b	True
+PX308133.1	China	2024	1b	1b	1b	1c	1b	1b	1b	False
+PX310202.1	China	2025	2c	2c	2c	2a	2c	2c	2a	False
+PX459238.1	China	2024	1c	1b	1b	1c	1c	1c	1c	True
+PX471094.1	China	2024	1b	1b	1b	1c	1b	1b	1a	False
+PX471095.1	China	2024	1b	1b	1b	1c	1b	1b	1a	False
+PX471096.1	China	2024	1b	1b	1b	1c	1b	1b	1b	False
+PX471097.1	China	2024	1b	1b	1b	1c	1b	1b	1b	False
+PX471098.1	China	2024	1b	1b	1b	1c	1b	1b	1b	False
+PX471099.1	China	2024	1b	1b	1b	1c	1b	1b	1b	False
+PX471100.1	China	2024	1b	1b	1b	1c	1b	1b	1b	False
+PX471101.1	China	2024	1b	1b	1b	1c	1b	1b	1b	False
+PX471102.1	China	2024	1b	1b	1b	1c	1b	1b	1b	False
+PX725408.1	China	2024	1b	1b	1b	1c	1b	1b	2a	False
+PZ205701.1	China	2026	1b	1b	1b	1c	1b	1b	1b	False
+PZ205702.1	China	2026	1b	1b	1b	1c	1b	1b	1b	False
+PZ205703.1	China	2026	1b	1b	1b	1c	1b	1b	1b	False
+PZ205704.1	China	2026	1b	1b	1b	1c	1b	1b	1b	False
+PZ205705.1	China	2026	1b	1b	1b	1c	1b	1b	1b	False
+PZ205706.1	China	2026	1b	1b	1b	1c	1b	1b	1b	False
+PZ488194.1	China	2024	2c	2c	2c	2a	2c	2a	2a	False
+PZ599941.1	China	2024	1b	1b	1b	1c	1b	1b	1b	False
+PZ599942.1	China	2024	1b	1b	1b	1c	1b	1b	1b	False
+PZ599943.1	China	2024	1b	1b	1b	1c	1b	1b	1b	False
+PZ599944.1	China	2024	1b	1b	1b	1c	1b	1b	1b	False
+PZ599945.1	China	2024	1b	1b	1b	1c	1b	1b	1b	False
+PZ599946.1	China	2024	1b	1b	1b	1c	1b	1b	1b	False
+PZ599947.1	China	2024	1b	1b	1b	1c	1b	1b	1b	False
+PZ599948.1	China	2024	1b	1b	1b	1c	1b	1b	1b	False
+PZ599949.1	China	2024	1b	1b	1b	1c	1b	1b	1b	False
+PZ599950.1	China	2024	1b	1b	1b	1c	1b	1b	1b	False
+PZ599951.1	China	2024	1b	1b	1b	1c	1b	1b	1b	False
+PZ599953.1	China	2024	1b	1b	1b	1c	1b	1b	1b	False
+PZ860279.1	China	2024	1b	1b	1b	1c	1b	1b	1b	False
+PZ860280.1	China	2024	1b	1b	1b	1c	1b	1b	1b	False
+PZ860281.1	China	2024	1b	1b	1b	1c	1b	1b	1b	False
+PZ860282.1	China	2024	1b	1b	1b	1c	1b	1b	1b	False
+PZ860283.1	China	2025	1b	1b	1b	1c	1b	1b	1b	False
+PZ860284.1	China	2025	1b	1b	1b	1c	1b	1b	1b	False
+PZ860285.1	China	2025	1b	1b	1b	1c	1b	1b	1b	False
+PZ860286.1	China	2025	1b	1b	1b	1c	1b	1b	1a	False
+PZ860287.1	China	2025	1b	1b	1b	1c	1b	1b	1b	False
+PZ860288.1	China	2025	1b	1b	1b	1c	1b	1b	1b	False

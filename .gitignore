@@ -1,0 +1,7 @@
+*.ckp.gz
+*.mldist
+*.bionj
+*.splits.nex
+*.model.gz
+*.parstree
+__pycache__/

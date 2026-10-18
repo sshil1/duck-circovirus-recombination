@@ -1,0 +1,16 @@
+alignment 444 x 1980
+
+  real alignment                     S= 370  PHI=0.33900  null=0.35854  z= -3.89  p=0.0010  SIGNIF
+
+  incompatibility by site separation (real data):
+    sep    1-20   sites: 0.2957  (n=7190)
+    sep   21-50   sites: 0.3368  (n=10035)
+    sep   51-100  sites: 0.3616  (n=14725)
+    sep  101-170  sites: 0.3887  (n=16415)
+    sep  171-369  sites: 0.3644  (n=19900)
+
+positive controls - manufactured recombinants:
+  5% taxa recombinant                S= 373  PHI=0.33941  null=0.36647  z= -5.32  p=0.0010  SIGNIF
+  10% taxa recombinant               S= 388  PHI=0.32711  null=0.36789  z= -8.37  p=0.0010  SIGNIF
+  25% taxa recombinant               S= 397  PHI=0.33466  null=0.37597  z= -9.04  p=0.0010  SIGNIF
+  50% taxa recombinant               S= 406  PHI=0.35007  null=0.40922  z=-12.47  p=0.0010  SIGNIF

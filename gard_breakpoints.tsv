@@ -1,0 +1,5 @@
+bp	last_nt_seg_left	first_nt_seg_right	in_ORF
+1	585	586	Rep CDS nt 538 (codon 180, pos 1)
+2	971	972	intergenic/non-ORF
+3	1141	1142	intergenic/non-ORF
+4	1697	1698	Cap CDS nt 234 on minus strand (codon 78, pos 3)

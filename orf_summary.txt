@@ -1,0 +1,2 @@
+rep: 478 codon-aligned of 498; QC: {'PASS': 478, 'frameshift/len%3': 17, 'ambiguous': 3}; codon alignment length 294 codons? -> 294
+cap: 440 codon-aligned of 498; QC: {'PASS': 440, 'no_ATG;incomplete_end': 50, 'ambiguous': 4, 'frameshift/len%3': 2, 'no_ATG;internal_stop': 1, 'frameshift/len%3;incomplete_end': 1}; codon alignment length 258 codons? -> 258

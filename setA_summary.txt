@@ -1,0 +1,2 @@
+Set A: 444 genomes   alignment 2032 cols -> 1980 after >=95% occupancy trim   variable sites 1056
+countries: {'China': 334, 'South Korea': 65, 'Viet Nam': 15, 'Taiwan': 12, 'NA': 7, 'Thailand': 6, 'USA': 3, 'Poland': 1, 'Brazil': 1}

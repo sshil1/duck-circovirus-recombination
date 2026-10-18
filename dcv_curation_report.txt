@@ -1,0 +1,73 @@
+fetched 528   usable_core 498   usable_meta(country+year) 479
+
+exclusion reasons:
+     7  identical to KFN.N
+     5  identical to ORN.N
+     4  identical to KCN.N
+     3  identical to KRN.N
+     2  identical to AYN.N
+     2  identical to DQN.N
+     2  identical to OQN.N
+     1  identical to EUN.N
+     1  identical to HGN.N
+     1  identical to PVN.N
+     1  non-waterfowl host (Ciconia ciconia)
+     1  identical to PZN.N
+
+completeness (core):
+  full          444
+  short(<1960)  54
+
+host class (core):
+  duck          464
+  duck_by_title 26
+  goose         8
+
+organism field (core):
+   475  Duck circovirus
+    21  Muscovy duck circovirus
+     1  Mulard duck circovirus
+     1  Duck circovirus 3
+
+country (core):
+  China           388
+  South Korea     65
+  Viet Nam        15
+  Taiwan          12
+  NA              7
+  Thailand        6
+  USA             3
+  Poland          1
+  Brazil          1
+
+year (core):
+  NA    19
+  2006  2
+  2007  4
+  2008  13
+  2009  8
+  2010  4
+  2011  18
+  2012  21
+  2013  20
+  2014  17
+  2015  3
+  2016  5
+  2017  8
+  2018  17
+  2019  38
+  2020  30
+  2021  51
+  2022  107
+  2023  32
+  2024  48
+  2025  27
+  2026  6
+
+submission blocks: 98; top-5 hold 141 (28%), top-12 hold 246 (49%)
+largest blocks: OR134461.1-OR134514.1 n=54 China, PP056131.1-PP056154.1 n=24 South Korea, ON227536.1-ON227557.1 n=22 China, OR387748.1-OR387768.1 n=21 China, MN928792.1-MN928811.1 n=20 China, OR090938.1-OR090957.1 n=20 China, PQ581084.1-PQ581101.1 n=18 South Korea, PV936272.1-PV936287.1 n=16 China
+
+length distribution (core): [(1755, 1), (1838, 1), (1876, 1), (1877, 10), (1882, 18), (1883, 16), (1884, 5), (1900, 1), (1946, 1), (1966, 1), (1969, 1), (1973, 3), (1974, 1), (1975, 1), (1977, 1), (1983, 2), (1986, 1), (1987, 16), (1988, 55), (1989, 10), (1990, 5), (1991, 7), (1992, 15), (1993, 153), (1994, 78), (1995, 80), (1996, 12), (1997, 2)]
+no PubMed link: 419/498
+
+length-excluded records outside window (check these are not real genomes):

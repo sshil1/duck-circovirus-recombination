@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+title: "Duck circovirus recombination analysis: code and results"
+authors:
+  - family-names: Shil
+    given-names: Sharadindu
+    orcid: "https://orcid.org/0000-0002-6167-2244"
+    affiliation: "CLART Genomics & Molecular Biology Laboratory (GMBL), Paschimbanga Go Sampad Bikash Sanstha (PBGSBS), Kalyani, West Bengal, India"
+version: 1.0.0
