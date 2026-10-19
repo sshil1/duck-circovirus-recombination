@@ -21,7 +21,7 @@ See `CITATION.cff`. Archived release DOI: to be added after the Zenodo release.
 
 ## Archive and citation
 
-Archived on Zenodo: [10.5281/zenodo.23463656](https://doi.org/10.5281/zenodo.23463656)
+Archived on Zenodo: [10.5281/zenodo.23463655](https://doi.org/10.5281/zenodo.23463655)
 
 If you use these data or scripts, please cite this archive (see `CITATION.cff`).
 
