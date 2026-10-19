@@ -24,3 +24,7 @@ See `CITATION.cff`. Archived release DOI: to be added after the Zenodo release.
 Archived on Zenodo: [10.5281/zenodo.23463656](https://doi.org/10.5281/zenodo.23463656)
 
 If you use these data or scripts, please cite this archive (see `CITATION.cff`).
+
+## Licence
+
+Code: MIT (`LICENSE`). Data, results and figures: CC BY 4.0 (`LICENSE-DATA.md`).
