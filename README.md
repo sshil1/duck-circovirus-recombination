@@ -18,3 +18,9 @@ Sequences are public GenBank records; accession lists are in `setA_ids.txt` and 
 
 ## Citation
 See `CITATION.cff`. Archived release DOI: to be added after the Zenodo release.
+
+## Archive and citation
+
+Archived on Zenodo: [10.5281/zenodo.23463656](https://doi.org/10.5281/zenodo.23463656)
+
+If you use these data or scripts, please cite this archive (see `CITATION.cff`).
