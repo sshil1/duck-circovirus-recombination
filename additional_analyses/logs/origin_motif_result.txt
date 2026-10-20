@@ -1,0 +1,35 @@
+HM162346.1: 1979 nt (circular)
+
+NANTATTAC matches (position = leftmost nt on the + strand, 1-based):
+    600  strand +  AAGTATTAC
+
+strongest perfect hairpins (score, start..end, stem bp, loop nt, loop seq):
+  score  23   1674.. 1693  stem  8 bp  loop  4  GGTG
+  score  23    630..  659  stem  9 bp  loop 12  TCGGGAAATGAC
+  score  22    494..  522  stem  9 bp  loop 11  CGAGACGCAAC
+  score  20    657..  677  stem  8 bp  loop  5  CGACT
+  score  20    469..  492  stem  7 bp  loop 10  CCTGGAACGC
+  score  19    262..  286  stem  7 bp  loop 11  AAGAGCCTGGC
+
+breakpoint interval midpoints and circular distance (nt) to nearest nonamer / strong hairpin centre:
+  A MN928802/803/804/806       1-25    mid    13.0  nonamer   587   hairpin   261
+  A MN928802/803/804/806     579-675   mid   627.0  nonamer    27   hairpin    17
+  B MN928792/MN928811          1-25    mid    13.0  nonamer   587   hairpin   261
+  B MN928792/MN928811        579-726   mid   652.5  nonamer    52   hairpin     8
+  C EU344803/EU499311         60-72    mid    66.0  nonamer   534   hairpin   208
+  C EU344803/EU499311        579-682   mid   630.5  nonamer    30   hairpin    14
+  EU344802                     1-25    mid    13.0  nonamer   587   hairpin   261
+  EU344802                   579-682   mid   630.5  nonamer    30   hairpin    14
+  EU344805                    46-54    mid    50.0  nonamer   550   hairpin   224
+  EU344805                   672-682   mid   677.0  nonamer    77   hairpin    10
+  OR134497                  1110-1125  mid  1117.5  nonamer   518   hairpin   450
+  OR134497                  1649-1723  mid  1686.0  nonamer   893   hairpin     3
+  OR134498                   871-975   mid   923.0  nonamer   323   hairpin   256
+  OR134498                  1655-1664  mid  1659.5  nonamer   920   hairpin    24
+  OK094644                   198-222   mid   210.0  nonamer   390   hairpin    64
+  OK094644                   582-672   mid   627.0  nonamer    27   hairpin    17
+  KP943594                   180-192   mid   186.0  nonamer   414   hairpin    88
+  KP943594                  1125-1138  mid  1131.5  nonamer   532   hairpin   464
+
+mean distance of the 18 breakpoints to the nearest nonamer match: 393.2 nt; random placement: 495.1 nt; P(random <= observed) = 0.0678
+NB: with several NANTATTAC matches in a 2-kb genome this is a weak test; use it to locate the origin, not to infer mechanism.

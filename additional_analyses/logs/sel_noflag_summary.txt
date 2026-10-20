@@ -1,0 +1,13 @@
+repA {'part': 'repA', 'BUSTED': 'LRT=35.29 p=1.08557726696823e-08', 'FEL_pos/neg': '1/83', 'MEME_sites': '11', 'FUBAR_pos/neg': '0/77'}
+  sites supported by >=2 positive-selection methods (alignment codon -> reference CDS codon):
+    73 -> 71 ['FEL+', 'MEME']
+repB {'part': 'repB', 'BUSTED': 'LRT=7.96 p=0.00935679556583674', 'FEL_pos/neg': '0/46', 'MEME_sites': '2', 'FUBAR_pos/neg': '0/46'}
+  no site is supported by two or more positive-selection methods
+capA {'part': 'capA', 'BUSTED': 'LRT=31.42 p=7.525558154419798e-08', 'FEL_pos/neg': '3/31', 'MEME_sites': '8', 'FUBAR_pos/neg': '2/22'}
+  sites supported by >=2 positive-selection methods (alignment codon -> reference CDS codon):
+    5 -> 5 ['FEL+', 'MEME', 'FUBAR+']
+    12 -> 12 ['FEL+', 'MEME']
+    23 -> 23 ['FEL+', 'MEME', 'FUBAR+']
+capB {'part': 'capB', 'BUSTED': 'LRT=19.58 p=2.803400445544613e-05', 'FEL_pos/neg': '1/128', 'MEME_sites': '5', 'FUBAR_pos/neg': '1/130'}
+  sites supported by >=2 positive-selection methods (alignment codon -> reference CDS codon):
+    28 -> 106 ['FEL+', 'MEME', 'FUBAR+']

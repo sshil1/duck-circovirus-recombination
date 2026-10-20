@@ -1,0 +1,58 @@
+
+== arcI: 444 tips (unrooted test) ==
+group1(10)  NOT monophyletic: smallest clade containing them has 396 tips (386 outsiders, e.g. AY394721.1, DQ166836.1, DQ166837.1, KP229377.1, KU844857.1, OM176557.1, GQ423744.1, EF370476.1)
+Fujian(4)   NOT monophyletic: smallest clade containing them has 396 tips (392 outsiders, e.g. AY394721.1, DQ166836.1, DQ166837.1, KP229377.1, KU844857.1, OM176557.1, GQ423744.1, EF370476.1)
+Henan(6)    MONOPHYLETIC (unrooted split); bootstrap/UFBoot support = 19
+
+== arcO: 444 tips (unrooted test) ==
+group1(10)  NOT monophyletic: smallest clade containing them has 443 tips (433 outsiders, e.g. AY394721.1, DQ166837.1, DQ166836.1, KP229377.1, KU844857.1, KP943594.1, OM176557.1, EF370476.1)
+Fujian(4)   NOT monophyletic: smallest clade containing them has 428 tips (424 outsiders, e.g. AY394721.1, DQ166837.1, DQ166836.1, KP229377.1, KU844857.1, KP943594.1, OM176557.1, EF370476.1)
+Henan(6)    NOT monophyletic: smallest clade containing them has 443 tips (437 outsiders, e.g. AY394721.1, DQ166837.1, DQ166836.1, KP229377.1, KU844857.1, KP943594.1, OM176557.1, EU344802.1)
+
+== arcI: model TIM2+R3 ==
+== AU test, arcI (tree 1 = unconstrained ML, tree 2 = group 1 forced monophyletic; p-AU < 0.05 rejects tree 2) ==
+USER TREES
+----------
+
+See g1_out/arcI_au.trees for trees with branch lengths.
+
+Tree      logL    deltaL  bp-RELL    p-KH     p-SH       c-ELW       p-AU
+-------------------------------------------------------------------------
+  1 -4819.130447       0       1 +      1 +      1 +         1 +        1 + 
+  2 -4991.246723  172.12       0 -      0 -      0 -  8.08e-30 - 8.54e-34 - 
+
+deltaL  : logL difference from the maximal logl in the set.
+bp-RELL : bootstrap proportion using RELL method (Kishino et al. 1990).
+p-KH    : p-value of one sided Kishino-Hasegawa test (1989).
+p-SH    : p-value of Shimodaira-Hasegawa test (2000).
+c-ELW   : Expected Likelihood Weight (Strimmer & Rambaut 2002).
+p-AU    : p-value of approximately unbiased (AU) test (Shimodaira, 2002).
+
+Plus signs denote the 95% confidence sets.
+Minus signs denote significant exclusion.
+All tests performed 10000 resamplings using the RELL method.
+
+== arcO: model TIM3+F+R4 ==
+== AU test, arcO (tree 1 = unconstrained ML, tree 2 = group 1 forced monophyletic; p-AU < 0.05 rejects tree 2) ==
+USER TREES
+----------
+
+See g1_out/arcO_au.trees for trees with branch lengths.
+
+Tree      logL    deltaL  bp-RELL    p-KH     p-SH       c-ELW       p-AU
+-------------------------------------------------------------------------
+  1 -20044.14411       0       1 +      1 +      1 +         1 +        1 + 
+  2 -21151.09712    1107       0 -      0 -      0 -         0 - 1.51e-49 - 
+
+deltaL  : logL difference from the maximal logl in the set.
+bp-RELL : bootstrap proportion using RELL method (Kishino et al. 1990).
+p-KH    : p-value of one sided Kishino-Hasegawa test (1989).
+p-SH    : p-value of Shimodaira-Hasegawa test (2000).
+c-ELW   : Expected Likelihood Weight (Strimmer & Rambaut 2002).
+p-AU    : p-value of approximately unbiased (AU) test (Shimodaira, 2002).
+
+Plus signs denote the 95% confidence sets.
+Minus signs denote significant exclusion.
+All tests performed 10000 resamplings using the RELL method.
+
+Done

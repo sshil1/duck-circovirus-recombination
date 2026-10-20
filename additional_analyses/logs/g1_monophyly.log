@@ -1,0 +1,13 @@
+arcI 80-570 491 cols
+arcO 730-1940 1211 cols
+
+== arcI: 444 tips ==
+group1(10)  MRCA clade has 444 tips (NOT monophyletic: 434 extra tips); support=None
+Fujian(4)   MRCA clade has 444 tips (NOT monophyletic: 440 extra tips); support=None
+Henan(6)    MRCA clade has 6 tips (MONOPHYLETIC); support=19
+
+== arcO: 444 tips ==
+group1(10)  MRCA clade has 444 tips (NOT monophyletic: 434 extra tips); support=None
+Fujian(4)   MRCA clade has 444 tips (NOT monophyletic: 440 extra tips); support=None
+Henan(6)    MRCA clade has 379 tips (NOT monophyletic: 373 extra tips); support=2
+ERROR: File not found Best-fit model according to BIC: TIM2

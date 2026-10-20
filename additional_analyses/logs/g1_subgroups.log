@@ -1,0 +1,52 @@
+
+=== arcI / Henan6 (model TIM2+R3) ===
+Tree      logL    deltaL  bp-RELL    p-KH     p-SH       c-ELW       p-AU
+-------------------------------------------------------------------------
+  1 -4819.174404       0   0.791 +  0.798 +      1 +     0.791 +        1 + 
+  2 -4839.863339  20.689   0.209 +  0.202 +  0.202 +     0.209 +    0.189 + 
+
+
+=== arcI / Fujian4 (model TIM2+R3) ===
+Tree      logL    deltaL  bp-RELL    p-KH     p-SH       c-ELW       p-AU
+-------------------------------------------------------------------------
+  1 -4819.327273       0       1 +      1 +      1 +         1 +        1 + 
+  2 -4977.572986  158.25       0 -      0 -      0 -   1.7e-31 - 1.76e-53 - 
+
+
+=== arcI / ClusterC (model TIM2+R3) ===
+Tree      logL    deltaL  bp-RELL    p-KH     p-SH       c-ELW       p-AU
+-------------------------------------------------------------------------
+  1 -4819.392883       0   0.539 +  0.546 +      1 +      0.54 +        1 + 
+  2 -4822.232545  2.8397   0.461 +  0.454 +  0.454 +      0.46 +    0.468 + 
+
+
+=== arcO / Henan6 (model TIM3+F+R4) ===
+Tree      logL    deltaL  bp-RELL    p-KH     p-SH       c-ELW       p-AU
+-------------------------------------------------------------------------
+  1 -20044.02251       0       1 +      1 +      1 +         1 +        1 + 
+  2 -20448.73179  404.71       0 -      0 -      0 -  5.89e-71 - 3.38e-64 - 
+
+
+=== arcO / Fujian4 (model TIM3+F+R4) ===
+Tree      logL    deltaL  bp-RELL    p-KH     p-SH       c-ELW       p-AU
+-------------------------------------------------------------------------
+  1 -20044.09477       0       1 +      1 +      1 +         1 +        1 + 
+  2 -20567.22272  523.13       0 -      0 -      0 - 1.93e-146 - 7.89e-66 - 
+
+
+=== arcO / ClusterC (model TIM3+F+R4) ===
+Tree      logL    deltaL  bp-RELL    p-KH     p-SH       c-ELW       p-AU
+-------------------------------------------------------------------------
+  1 -20044.05476 0.33076   0.501 +  0.499 +  0.499 +     0.501 +    0.505 + 
+  2   -20043.724       0   0.499 +    0.5 +      1 +     0.499 +        1 + 
+
+
+== SUMMARY (p_AU_constrained < 0.05 = forcing the subgroup together is rejected) ==
+arc   subgroup  n  deltaL_constrained  p_AU_constrained  p_AU_unconstrained
+arcI  Henan6    6  20.689              0.189             1
+arcI  Fujian4   4  158.25              1.76e-53          1
+arcI  ClusterC  2  2.8397              0.468             1
+arcO  Henan6    6  404.71              3.38e-64          1
+arcO  Fujian4   4  523.13              7.89e-66          1
+arcO  ClusterC  2  0                   1                 0.505
+Done

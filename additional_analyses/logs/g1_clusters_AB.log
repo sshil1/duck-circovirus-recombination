@@ -1,0 +1,36 @@
+
+=== arcI / ClusterA (model TIM2+R3) ===
+Tree      logL    deltaL  bp-RELL    p-KH     p-SH       c-ELW       p-AU
+-------------------------------------------------------------------------
+  1 -4819.259296       0   0.608 +    0.6 +      1 +     0.607 +        1 + 
+  2 -4826.814016  7.5547   0.392 +    0.4 +    0.4 +     0.393 +    0.409 + 
+
+
+=== arcI / ClusterB (model TIM2+R3) ===
+Tree      logL    deltaL  bp-RELL    p-KH     p-SH       c-ELW       p-AU
+-------------------------------------------------------------------------
+  1 -4819.092412       0   0.707 +   0.72 +      1 +     0.708 +        1 + 
+  2 -4836.836132  17.744   0.293 +   0.28 +   0.28 +     0.292 +    0.296 + 
+
+
+=== arcO / ClusterA (model TIM3+F+R4) ===
+Tree      logL    deltaL  bp-RELL    p-KH     p-SH       c-ELW       p-AU
+-------------------------------------------------------------------------
+  1  -20043.8201       0   0.563 +  0.593 +      1 +     0.563 +        1 + 
+  2 -20054.88525  11.065   0.437 +  0.407 +  0.407 +     0.437 +    0.414 + 
+
+
+=== arcO / ClusterB (model TIM3+F+R4) ===
+Tree      logL    deltaL  bp-RELL    p-KH     p-SH       c-ELW       p-AU
+-------------------------------------------------------------------------
+  1  -20043.8934       0   0.611 +  0.613 +      1 +     0.612 +        1 + 
+  2 -20056.39751  12.504   0.389 +  0.387 +  0.387 +     0.388 +    0.393 + 
+
+
+== SUMMARY (p_AU_constrained < 0.05 = forcing the subgroup together is rejected) ==
+arc   subgroup  n  deltaL_constrained  p_AU_constrained  p_AU_unconstrained
+arcI  ClusterA  4  7.5547              0.409             1
+arcI  ClusterB  2  17.744              0.296             1
+arcO  ClusterA  4  11.065              0.414             1
+arcO  ClusterB  2  12.504              0.393             1
+Done

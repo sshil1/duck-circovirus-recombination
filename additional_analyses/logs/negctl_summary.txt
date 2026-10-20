@@ -1,0 +1,14 @@
+REAL alignment: S=370  constant-site fraction=0.470  z=-4.04  p=0.0050
+200 recombination-free replicates per model, 199 permutations each (min p = 0.0050)
+
+model iid:
+  informative sites S: mean 269 (range 236-308); constant-site fraction 0.462
+  z: mean 0.00, sd 1.09, 5th pct -1.63, min -2.47
+  false-positive rate at p<0.05: 0.050   at p<0.01: 0.015
+  replicates with z <= real z (-4.04): 0 of 200
+
+model clustered:
+  informative sites S: mean 268 (range 233-314); constant-site fraction 0.463
+  z: mean 0.38, sd 1.12, 5th pct -1.28, min -2.43
+  false-positive rate at p<0.05: 0.020   at p<0.01: 0.005
+  replicates with z <= real z (-4.04): 0 of 200

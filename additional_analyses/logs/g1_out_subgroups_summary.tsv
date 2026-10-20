@@ -1,0 +1,7 @@
+arc	subgroup	n	deltaL_constrained	p_AU_constrained	p_AU_unconstrained
+arcI	Henan6	6	20.689	0.189	1
+arcI	Fujian4	4	158.25	1.76e-53	1
+arcI	ClusterC	2	2.8397	0.468	1
+arcO	Henan6	6	404.71	3.38e-64	1
+arcO	Fujian4	4	523.13	7.89e-66	1
+arcO	ClusterC	2	0	1	0.505
